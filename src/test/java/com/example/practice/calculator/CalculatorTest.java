@@ -1,4 +1,4 @@
-package com.example.practice.Calculator;
+package com.example.practice.calculator;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;

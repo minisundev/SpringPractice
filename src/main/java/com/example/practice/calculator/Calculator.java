@@ -1,4 +1,4 @@
-package com.example.practice.Calculator;
+package com.example.practice.calculator;
 
 public class Calculator {
     public Double operate(double num1, String op, double num2) {
